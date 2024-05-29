@@ -1,5 +1,6 @@
 # V1.1.1
 
+* Fixed some other stuff.
 * make crossplatform with macOS and Android.
 
 # V1.1.0
